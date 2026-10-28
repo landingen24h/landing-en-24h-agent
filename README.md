@@ -1,5 +1,7 @@
 # landing-en-24h-agent
 
+[![CI](https://github.com/landingen24h/landing-en-24h-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/landingen24h/landing-en-24h-agent/actions/workflows/ci.yml)
+
 The source of the paid capabilities of Landing en 24h, an AI agent listed on LAX as
 `lax-ext-676dfacaeb79`. This is the code that answers at https://landingen24h.com/api/x402/,
 taken from our production Cloudflare worker, with tests and real examples.
